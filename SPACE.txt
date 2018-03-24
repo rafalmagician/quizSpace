@@ -1,0 +1,96 @@
+Ile planet liczy nasz uklad sloneczny:
+9
+8
+11
+5
+a
+Od czego pochodza nazwy planet:
+Kosmonautow
+Krolow
+Zwierzat
+Bogow Rzymskich
+d
+Najzimniejsza planeta w ukladzie slonecznym to:
+Pluton
+Neptun
+Merkury
+Ziemia
+b
+Ktora planeta jest najjasniejsza na ziemskim globie:
+Mars
+Jowisz
+Wenus
+Saturn
+c
+Jaka nazwe nosi nasz uklad planetarny:
+Zachodni
+Sloneczny
+Droga Mleczna
+Ziemski
+b
+Najcieplejsza planeta w naszym ukladzie slonecznym to:
+Mars
+Wenus
+Merkury
+Uran
+b
+Jaka temperatura panuje na sloncu:
+7800K
+4299K
+5800K
+1234K
+c
+Jaka jest najwieksza planeta w naszym ukladzie slonecznym:
+Jowisz
+Neptun
+Pluton
+Slonce
+a
+Jaka planeta jest Pluton:
+Gazowa
+Karlowata
+Skalista
+Plazmowa
+b
+Ktora z planet nie posiada pierscieni:
+Uran
+Jowisz
+Merkury
+Saturn
+c
+Ktora z gwiazd znajdujacych sie w gwiazdozbiorze Oriona jest najjasniejsza:
+Rigel
+Bellatrix
+Betelgeza
+Aldebaran
+a
+Skrot ISS pochodzi od pelnej nazwy:
+International Station Space
+International Space Station
+International Spacecraft
+International Space Starcraft
+b
+"Reka olbrzymki" to okreslenie:
+Betelgezy
+Gwiazdy Polarnej
+Wegi
+Rigel
+a
+Ktory z gwiazdozbiorow jest widoczny z Polski przez caly rok:
+Lew
+Korona polnocna
+Kasjopeja
+Byk
+c
+Kiedy przypada okres maksimum roju Perseidow:
+2/3 sierpnia
+12/13 sierpnia
+10/11 sierpnia
+20/21 lipca
+b
+Jak nazywa sie nasza Galaktyka:
+Andromeda
+Droga Mleczna
+NGC 6217
+UY Scuti
+b
